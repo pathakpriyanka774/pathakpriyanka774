@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pathakpriyanka774
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Priyanka Pathak
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning ...React(M)
+- 💞️ I’m looking to collaborate on ...Projects
+- 📫 How to reach me ...GO Check out my LinkedIn page and Naukri.com
 
 <!---
 pathakpriyanka774/pathakpriyanka774 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
